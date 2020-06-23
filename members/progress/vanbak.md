@@ -25,28 +25,24 @@
     - [X] Tuples
     - [X] Tuple Index
 - [ ] Functions
-    - [ ] Intro
-    - [ ] Statements and Expressions
-    - [ ] Defining a Function
-    - [ ] Type Annotation of a Parameter
-    - [ ] Passing an Argument
-    - [ ] Return Type
-    - [ ] Return a Value
-- [ ] if 
-    - [ ] if1
-    - [ ] if2
-- [ ] quiz1
-- [ ] primitive_types
-    - [ ] primitive_types1
-    - [ ] primitive_types2
-    - [ ] primitive_types3
-    - [ ] primitive_types4
-    - [ ] primitive_types5
-    - [ ] primitive_types6
-- [ ] structs
-    - [ ] structs1
-    - [ ] structs2
-    - [ ] structs3
-- [ ] strings
-    - [ ] strings1
-    - [ ] strings2
+    - [X] Intro
+    - [X] Statements and Expressions
+    - [X] Defining a Function
+    - [X] Type Annotation of a Parameter
+    - [X] Passing an Argument
+    - [X] Return Type
+    - [X] Return a Value
+- [X] Variables and Functions Test
+    - [X] Calculate Price
+- [X] If
+    - [X] Intro
+    - [X] Repetition with Loops
+    - [X] If Task
+    - [X] Repetition with Loops
+- [ ] Understanding Ownership
+- [ ] Modules and Macros
+- [ ] Common Collections
+- [ ] Recoverable and Unrecoverable Errors
+- [ ] Writing Automated Tests
+- [ ] Iterators and Closures
+- [ ] Fearless Concurrency
